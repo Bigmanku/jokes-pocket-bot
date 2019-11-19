@@ -1,0 +1,19 @@
+{
+    "name": "Bigmanku/jokes-pocket-bot",
+    "type": "project",
+    "description": "PHP Telegram Bot of Jokes",
+    "keywords": ["telegram", "bot", "jokes"],
+    "license": "MIT",
+    "homepage": "https://github.com/Bigmanku/jokes-pocket-bot/",
+    "authors": [
+        {
+            "name": "Aliaksandr Kazhukhouski",
+            "homepage": "https://www.bigman.pro",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "longman/telegram-bot": "*"
+    }
+}
+
